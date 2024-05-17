@@ -177,7 +177,7 @@ tr:last-child > td {
 }
 
 .fw-400 {
-	font-weight: -400;
+	font-weight: 400;
 }
 
 .list-style-square {
